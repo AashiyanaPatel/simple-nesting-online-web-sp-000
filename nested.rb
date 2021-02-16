@@ -57,6 +57,8 @@ def dennis_ritchies_language
           :languages => ["C"]
         }
      }
+     
+     programmer_hash[:dennis_ritchie][:languages]
 end
 
 def adding_matz
@@ -109,8 +111,6 @@ def changing_alan
      programmer_hash
      
      #change what Alan Kay is :known_for to the value of the alans_new_info variable. 
-     
-     
      
 end
 
